@@ -410,4 +410,8 @@ footer {
     .item-info:nth-child(4) {
         width: 50%;
     }
+
+    .titulo {
+        font-size: 2em;
+    }
 }
